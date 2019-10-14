@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 #add_executable($name_of_exe $path_of_cpp)
 add_executable(chap1 chap1/main.cpp)
+add_executable(chap2 chap2/main.cpp)
